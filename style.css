@@ -6,6 +6,9 @@ body {
     height:100%;
     transition: opacity 1s ease;
 }
-body.loading {
-    opacity:0;
+body.loading {opacity:0}
+
+.navbar {
+  box-shadow: 0 0px 30px lightgray;
+  border-radius: 0px;
 }
